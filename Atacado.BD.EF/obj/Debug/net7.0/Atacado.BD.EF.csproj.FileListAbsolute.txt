@@ -1,0 +1,14 @@
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.deps.json
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.runtimeconfig.json
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.dll
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.pdb
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.csproj.AssemblyReference.cache
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.AssemblyInfoInputs.cache
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.AssemblyInfo.cs
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.csproj.CoreCompileInputs.cache
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.dll
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\refint\Atacado.BD.EF.dll
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.pdb
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.genruntimeconfig.cache
+C:\Users\Marcia\Desktop\AulasPoo2\Atacado.BD.EF\obj\Debug\net7.0\ref\Atacado.BD.EF.dll
